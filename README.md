@@ -3,5 +3,5 @@
 
 #### Contributors
 * [Hassan Alhujhoj](https://eng-git.canterbury.ac.nz/haa61)
-* [Luke Trenberth](https://eng-git.canterbury.ac.nz/itr28)
+* [Luke Trenberth](https://eng-git.canterbury.ac.nz/ltr28)
 
