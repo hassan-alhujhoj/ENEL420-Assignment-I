@@ -9,7 +9,7 @@ Filtering of an unfiltered ECG signal with noise using FIR and IIR filters. The 
 #### ECG signal filtered using window function
 <img src="wiki/main2.png" alt="filtered ECG Signal" width="600"/>
 
-#### ECG signal filtered using Park-McClellan
+#### ECG signal filtered using Parks-McClellan
 <img src="wiki/main3.png" alt="filtered ECG Signal" width="600"/>
 
 ## Contributors
