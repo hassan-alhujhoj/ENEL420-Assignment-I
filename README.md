@@ -6,7 +6,9 @@ Filtering of an unfiltered ECG signal with noise using FIR and IIR filters. The 
 <img src="wiki/main1.png" alt="Unifiltered ECG Signal" width="600"/>
 
 ### ECG signal using FIR filter
+#### ECG signal filtered using window function
 <img src="wiki/main2.png" alt="filtered ECG Signal" width="600"/>
+#### ECG signal filtered using 
 <img src="wiki/main3.png" alt="filtered ECG Signal" width="600"/>
 
 ## Contributors
