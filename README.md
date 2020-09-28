@@ -4,6 +4,7 @@ Filtering of an unfiltered ECG signal with noise using FIR and IIR filters. The 
 
 ### Unifiltered ECG signal
 <img src="wiki/main1.png" alt="Unifiltered ECG Signal" width="600"/>
+
 ### ECG signal using FIR filter
 <img src="wiki/main2.png" alt="filtered ECG Signal" width="600"/>
 <img src="wiki/main3.png" alt="filtered ECG Signal" width="600"/>
