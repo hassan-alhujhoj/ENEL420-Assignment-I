@@ -1,4 +1,4 @@
-# ENEL420 - Assignment II
+# ENEL420 - Assignment I
 ## Notch Filter Design for ECG Signal
 
 ## Contributors
