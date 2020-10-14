@@ -6,14 +6,14 @@ Filtering of an unfiltered ECG signal with noise using FIR and IIR filters. The 
 <img src="wiki/Realisation Diagram.png" alt="realDiagram" width="1200"/>
 
 ### Unifiltered ECG signal
-<img src="wiki/main1.png" alt="Unifiltered ECG Signal" width="1200"/>
+<img src="wiki/main1.png" alt="Unifiltered ECG Signal" width="500"/>
 
 ### ECG signal using FIR filter
 #### ECG signal filtered using window function
-<img src="wiki/main2.png" alt="filtered ECG Signal" width="1200"/>
+<img src="wiki/main2.png" alt="filtered ECG Signal" width="500"/>
 
 #### ECG signal filtered using Parks-McClellan
-<img src="wiki/main3.png" alt="filtered ECG Signal" width="1200"/>
+<img src="wiki/main3.png" alt="filtered ECG Signal" width="500"/>
 
 ## Contributors
 * [Hassan Alhujhoj](https://eng-git.canterbury.ac.nz/haa61)
