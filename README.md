@@ -12,6 +12,9 @@ Filtering of an unfiltered ECG signal with noise using FIR and IIR filters. The 
 #### ECG signal filtered using Parks-McClellan
 <img src="wiki/main3.png" alt="filtered ECG Signal" width="600"/>
 
+#### Realisation Diagram of IIR Filter
+<img src="wiki/Realisation Diagram.png" alt="realDiagram" width="600"/>
+
 ## Contributors
 * [Hassan Alhujhoj](https://eng-git.canterbury.ac.nz/haa61)
 * [Luke Trenberth](https://eng-git.canterbury.ac.nz/ltr28)
