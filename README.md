@@ -1,4 +1,4 @@
-# ENEL420 - Assignment I
+# ENEL420 - FIR & IIR Filters for ECG Singals
 ## Notch Filter Design for ECG Signal
 Filtering of an unfiltered ECG signal with noise using FIR and IIR filters. The FIR filter is written in python and IIR filter is written in MATLAB.
 
