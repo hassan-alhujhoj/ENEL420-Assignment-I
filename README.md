@@ -16,8 +16,8 @@ Filtering of an unfiltered ECG signal with noise using FIR and IIR filters. The 
 <img src="wiki/main3.png" alt="filtered ECG Signal" width="500"/>
 
 ### Rejection Frequencies
-* `f(1) = 36Hz`
-* `f(2) = 74Hz`
+* `f(1) = 31.456Hz`
+* `f(2) = 74.36Hz`
 
 ## Contributors
 * [Hassan Alhujhoj](https://eng-git.canterbury.ac.nz/haa61)
