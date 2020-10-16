@@ -17,5 +17,5 @@ Filtering of an unfiltered ECG signal with noise using FIR and IIR filters. The 
 
 ## Contributors
 * [Hassan Alhujhoj](https://eng-git.canterbury.ac.nz/haa61)
-* [Luke Trenberth](https://eng-git.canterbury.ac.nz/ltr28)
+* [Luke Trenberth](https://github.com/ltr28)
 
