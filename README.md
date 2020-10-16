@@ -15,6 +15,10 @@ Filtering of an unfiltered ECG signal with noise using FIR and IIR filters. The 
 #### ECG signal filtered using Parks-McClellan
 <img src="wiki/main3.png" alt="filtered ECG Signal" width="500"/>
 
+### Rejection Frequencies
+* `f(1) = 36Hz`
+* `f(2) = 74Hz`
+
 ## Contributors
 * [Hassan Alhujhoj](https://eng-git.canterbury.ac.nz/haa61)
 * [Luke Trenberth](https://github.com/ltr28)
